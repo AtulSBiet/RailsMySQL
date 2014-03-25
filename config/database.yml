@@ -11,6 +11,6 @@ production:
   host: 192.168.2.53                          # VM IP
   port: 64302                          # VM Port 
   database: t             # Database Name
-username: a9ewwx3pyykl9pf5                 # User Name
+  username: a9ewwx3pyykl9pf5                 # User Name
   password: 'azbga84bmcjuut9zqk1g6jpme8mocx1i'                # Password
 
